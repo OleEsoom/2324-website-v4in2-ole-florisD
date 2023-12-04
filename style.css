@@ -17,3 +17,16 @@
 /************************* YOUR SETTINGS *************************/
 
 /* add your css here, feel free to use comments and order them logically for better readability */
+h1, h2, h3, h4, h5, p {
+   font-family: arial;
+}
+body {
+   background-color: black;
+}
+header {
+   background-color: #a7390a;
+   width: 1000px;
+}
+img {
+   width: 1000px;
+}
