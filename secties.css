@@ -1,8 +1,19 @@
-header{
-    width: 796px;
-    height: 48px;
-    background-color:#a7390a ;}
-
 nav{
     width: 200px;
 }
+h1, h2, h3, h4, h5, p {
+    font-family: arial;
+ }
+ body {
+    background-color: black;
+ }
+ header {
+    background-color: #a7390a;
+    width: 796px;
+    height: 48px;
+    margin: 4px;
+ }
+ img {
+    width: 1000px;
+    margin: 4px;
+ }
