@@ -17,3 +17,8 @@ Available on:
   http://172.16.5.4:8080
 Hit CTRL-C to stop the server
 
+[2024-01-10T09:31:38.590Z]  "GET /?vscodeBrowserReqId=1704879093738" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+(node:675) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[2024-01-10T09:31:38.904Z]  "GET /images/orkestkaas.jpg" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+[2024-01-10T09:31:38.953Z]  "GET /style.css" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
