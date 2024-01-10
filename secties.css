@@ -1,19 +1,49 @@
+#koper_wrapper {
+   width: 1024px;
+   background-color: blueviolet;
+}
 nav{
     width: 200px;
+    background-color: #bc4e0b;
+    float: left;
+    padding: 4px;
+    margin: 4px;
 }
 h1, h2, h3, h4, h5, p {
     font-family: arial;
  }
- body {
-    background-color: black;
- }
+ 
  header {
     background-color: #a7390a;
     width: 796px;
     height: 48px;
     margin: 4px;
+    float:right;
  }
- img {
-    width: 1000px;
+ footer {
+   background-color: #6d2900;
+   float:right;
+ }
+ img, #article1 {
+    width: 396px;
+    height: 132px;
     margin: 4px;
  }
+ #article1 {
+   background-color: #dea200;
+   float:right;
+   margin: 4px;
+ }
+ #article2 {
+   width: 796px;
+   margin: 4px;
+   background-color: #dea200;
+   float:left;
+   margin: 4px;
+ }
+ img {
+   float:right;
+   background-color: aqua;
+   margin: 4px;
+ }
+ 
