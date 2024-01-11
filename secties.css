@@ -34,17 +34,17 @@ body {
    height: 48px;
    margin: 4px;
  }
- img, #article1 {
+ #wrapper img, #wrapper #article1 {
     width: 394px;
     height: 292px;
     margin: 4px;
  }
- #article1 {
+ #wrapper #article1 {
    background-color: #dea200;
    float:right;
    margin: 4px;
  }
- #article2 {
+ #wrapper #article2 {
    height: 586px;
    width: 796px;
    margin: 4px;
@@ -52,12 +52,46 @@ body {
    float:right;
    margin: 4px;
  }
- img {
+ #wrapper img {
    float:right;
-   background-color: aqua;
    margin: 4px;
  }
- nav a {
+ #wrapper a img {
+  height:176px;
+  width:176px;
+  margin: 0px;
+ }
+ #wrapper nav a {
   color:black;
  }
+ #security_wrapper img {
+  width: 796px;
+  height: 796px;
+  float:left;
+ }
+ #security_wrapper nav {
+  width: 200px;
+  height: 1000px;
+  background-color: #bc4e0b;
+  float: left;
+  margin: 4px;
+ }
+ #security_wrapper footer {
+  background-color: #6d2900;
+  float:left;
+  width: 796px;
+  height: 48px;
+  margin: 4px;
+ }
+ #security_wrapper header {
+  background-color: #a7390a;
+  width: 796px;
+  height: 48px;
+  margin: 4px;
+  float:right;
+ }
+ #security_wrapper {
+  height: 2000px;
+ }
+
  
