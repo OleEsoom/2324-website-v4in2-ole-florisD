@@ -64,10 +64,24 @@ body {
  #wrapper nav a {
   color:black;
  }
+ #security_wrapper header {
+  background-color: #a7390a;
+  width: 796px;
+  height: 48px;
+  margin: 4px;
+  float:right;
+ }
  #security_wrapper img {
   width: 796px;
   height: 796px;
-  float:left;
+  float:right;
+ }
+ #security_wrapper footer {
+  background-color: #6d2900;
+  float:right;
+  width: 796px;
+  height: 48px;
+  margin: 4px;
  }
  #security_wrapper nav {
   width: 200px;
@@ -76,22 +90,13 @@ body {
   float: left;
   margin: 4px;
  }
- #security_wrapper footer {
-  background-color: #6d2900;
-  float:left;
-  width: 796px;
-  height: 48px;
-  margin: 4px;
- }
- #security_wrapper header {
-  background-color: #a7390a;
-  width: 796px;
-  height: 48px;
-  margin: 4px;
-  float:right;
+ #security_wrapper header h1 {
+  margin:0px;
+  padding:0px;
  }
  #security_wrapper {
-  height: 2000px;
+  height: 1000px;
+  width:1008px;
  }
 
  
