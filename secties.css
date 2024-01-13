@@ -1,5 +1,5 @@
 #wrapper {
-   width: 1024px;
+   width: 1020px;
    height: 1000px;
    margin:4px;
 }
@@ -25,7 +25,7 @@ body {
     float:right;
  }
  header h1 {
-  margin: 5px;
+  margin: 0px;
  }
  footer {
    background-color: #6d2900;
@@ -34,17 +34,17 @@ body {
    height: 48px;
    margin: 4px;
  }
- #wrapper img, #wrapper #article1 {
+  img, #article1 {
     width: 394px;
     height: 292px;
     margin: 4px;
  }
- #wrapper #article1 {
+ #article1 {
    background-color: #dea200;
    float:right;
    margin: 4px;
  }
- #wrapper #article2 {
+ #article2 {
    height: 586px;
    width: 796px;
    margin: 4px;
@@ -52,51 +52,28 @@ body {
    float:right;
    margin: 4px;
  }
- #wrapper img {
+ img {
    float:right;
    margin: 4px;
  }
- #wrapper a img {
+ a img {
   height:176px;
   width:176px;
   margin: 0px;
  }
- #wrapper nav a {
+ nav a {
   color:black;
  }
- #security_wrapper header {
-  background-color: #a7390a;
-  width: 796px;
-  height: 48px;
-  margin: 4px;
+ #security_img, #security_img img {
+  height:796px;
+  width:796px;
+  margin:4px;
   float:right;
+  background-color: #dea200;
  }
- #security_wrapper img {
-  width: 796px;
-  height: 796px;
-  float:right;
- }
- #security_wrapper footer {
-  background-color: #6d2900;
-  float:right;
-  width: 796px;
-  height: 48px;
-  margin: 4px;
- }
- #security_wrapper nav {
+ #security_nav {
+  height: 912px;
   width: 200px;
-  height: 1000px;
-  background-color: #bc4e0b;
-  float: left;
-  margin: 4px;
+  margin:4px;
  }
- #security_wrapper header h1 {
-  margin:0px;
-  padding:0px;
- }
- #security_wrapper {
-  height: 1000px;
-  width:1008px;
- }
-
  
