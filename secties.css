@@ -57,9 +57,13 @@ body {
    margin: 4px;
  }
  a img {
-  height:176px;
-  width:176px;
-  margin: 0px;
+  height:150px;
+  width:150px;
+  margin-right: 25px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding:0px;
+  display:block;
  }
  nav a {
   color:black;
@@ -75,5 +79,9 @@ body {
   height: 912px;
   width: 200px;
   margin:4px;
+ }
+ nav h2 {
+  margin:1px;
+  padding:0px;
  }
  
