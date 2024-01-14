@@ -50,6 +50,12 @@ body {
  h3 {
   margin:4px;
  }
+ ul {
+  margin:0px;
+ }
+ li {
+  margin:1px;
+ }
  #article2 {
    height: 586px;
    width: 796px;
