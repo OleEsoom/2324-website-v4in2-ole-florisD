@@ -1,6 +1,6 @@
 #wrapper {
    width: 1020px;
-   height: 1000px;
+   height: 2000px;
    margin:4px;
 }
 nav{
@@ -44,6 +44,13 @@ body {
    float:right;
    margin: 4px;
  }
+ p {
+  font-size:13pt;
+  margin:0px;
+ }
+ h3 {
+  margin:4px;
+ }
  #article2 {
    height: 586px;
    width: 796px;
@@ -64,6 +71,12 @@ body {
   margin-bottom: 0px;
   padding:0px;
   display:block;
+ }
+ a {
+  color:black;
+ }
+ footer h3 {
+  text-align:center;
  }
  nav a {
   color:black;
