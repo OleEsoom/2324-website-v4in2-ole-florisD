@@ -17,6 +17,7 @@ Available on:
   http://172.16.5.4:8080
 Hit CTRL-C to stop the server
 
+<<<<<<< HEAD
 [2024-01-14T19:11:12.332Z]  "GET /koperblazers.html" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
 (node:514) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated
 (Use `node --trace-deprecation ...` to show where the warning was created)
@@ -92,3 +93,10 @@ Hit CTRL-C to stop the server
 [2024-01-14T20:02:52.940Z]  "GET /images/clarinet.png" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
 [2024-01-14T20:02:52.976Z]  "GET /images/timpani.png" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
 [2024-01-14T20:02:52.984Z]  "GET /images/french_horn.png" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+=======
+[2024-01-14T20:23:31.166Z]  "GET /?vscodeBrowserReqId=1705263809351" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+(node:1221) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[2024-01-14T20:23:31.381Z]  "GET /images/orkestkaas.jpg" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+[2024-01-14T20:23:31.384Z]  "GET /style.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+>>>>>>> 1843a95 (hi)
